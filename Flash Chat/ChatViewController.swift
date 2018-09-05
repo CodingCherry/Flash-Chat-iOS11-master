@@ -8,7 +8,6 @@
 
 import UIKit
 
-
 class ChatViewController: UIViewController {
     
     // Declare instance variables here
